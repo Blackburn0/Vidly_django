@@ -1,1 +1,1 @@
-# Django-blog-app
+# Vidly_django_app
